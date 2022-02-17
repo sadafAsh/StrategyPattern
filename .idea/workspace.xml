@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a37454ad-2f32-4b95-904c-4c185ff4ffca" name="Default Changelist" comment="" />
+    <list default="true" id="a37454ad-2f32-4b95-904c-4c185ff4ffca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/CannotFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/ItFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/pattern/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/pattern/strategy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/javaJourney.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/javaJourney.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/pattern/strategy/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +39,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25D3PmO2SZWHIeHpO4vFSTCpafC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RunManager">
@@ -78,33 +103,49 @@
       <option name="presentableId" value="Default" />
       <updated>1645047807061</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1645095696525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645095696525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1645094624705">
+    <state x="489" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1645115271854">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="489" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1368.720@0.0.1368.720" timestamp="1645094624705" />
+    <state x="489" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1368.720@0.0.1368.720" timestamp="1645115271854" />
     <state x="414" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645095463775">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="414" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.720@0.0.1368.720" timestamp="1645095463775" />
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1645095678903">
+    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1645095696164">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645095678903" />
-    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1645095678903">
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1368.720@0.0.1368.720" timestamp="1645095696164" />
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1645115308646">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645095678903" />
-    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1645095678903">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645115308646" />
+    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1645115308645">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645095678903" />
-    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1645095678903">
+    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645115308645" />
+    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1645115308645">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645095678903" />
+    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645115308645" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1645115308645">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645115308645" />
     <state width="1325" height="220" key="GridCell.Tab.1.bottom" timestamp="1645093000744">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
@@ -121,5 +162,17 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state width="1325" height="220" key="GridCell.Tab.1.right/0.0.1368.720@0.0.1368.720" timestamp="1645093000744" />
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2" timestamp="1645095704884">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2/0.0.1368.720@0.0.1368.720" timestamp="1645095704884" />
+    <state x="395" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645095732564">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="395" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645095732564" />
+    <state x="347" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1645114750578">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="347" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1368.720@0.0.1368.720" timestamp="1645114750578" />
   </component>
 </project>
