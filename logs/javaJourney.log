@@ -1,0 +1,5 @@
+DEBUG [main] 2022-02-17T16:27:00,025  (line ) Dog :I can't fly
+DEBUG [main] 2022-02-17T16:27:00,027  (line ) Dog :5 
+DEBUG [main] 2022-02-17T16:27:00,027  (line ) Dog : Bark
+DEBUG [main] 2022-02-17T16:27:00,027  (line ) Bird : Flying High
+DEBUG [main] 2022-02-17T16:27:00,027  (line ) Bird :Tweet 
